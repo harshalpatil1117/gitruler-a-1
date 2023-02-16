@@ -1,4 +1,8 @@
 Bananas
 Apples
 Oranges
+<<<<<<< HEAD
 Peaches
+=======
+Peaches
+>>>>>>> a34ad93 (add names)

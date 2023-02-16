@@ -1,3 +1,7 @@
 Billy Smith
 Sarah Jones
+<<<<<<< HEAD
 Manfred Delmonte
+=======
+Manfred Delmonte
+>>>>>>> a34ad93 (add names)
